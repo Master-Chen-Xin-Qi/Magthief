@@ -1,0 +1,12 @@
+aiqiyi 0
+bilibili 1
+hupu  2
+net   3 
+paoku 4
+qq    5
+quak  6
+snake 7
+static 8
+wechat 9
+weibo 10
+wps 11
