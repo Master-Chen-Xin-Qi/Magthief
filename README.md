@@ -1,4 +1,4 @@
-#### README
+#### 介绍
 
 CODE.Android下的 `cnn_lstm.py`为模型与训练、测试文件，参数的配置均在`config.py中`, `main.py`为各种预处理的方法，`Recv.py`为采集磁信号的代码。
 
